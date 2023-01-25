@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oldgreg07
-- 👀 I’m a retail management professional eager to make the leap into the world of data analytics and, eventually, data science.
-- 🌱 I’m currently learning Python.
+- 👀 I hold a Bachelor of Arts in English from Florida Gulf Coast University.
+- 🌱 I’m currently learning Python. SQL and R Programming are both recent additions to my toolbelt.
 - 💞️ I’m looking to collaborate on any SQL or Python projects.
 - 📫 How to reach me https://www.linkedin.com/in/gregsorrells/
 

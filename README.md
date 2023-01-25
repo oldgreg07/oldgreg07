@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oldgreg07
-- 👀 I’m interested in switching careers from retail management to data analytics.
+- 👀 I’m a retail management professional eager to make the leap into the world of data analytics and, eventually, data science.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any SQL or Python projects.
 - 📫 How to reach me https://www.linkedin.com/in/gregsorrells/
